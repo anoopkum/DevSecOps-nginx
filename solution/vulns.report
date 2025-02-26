@@ -1,0 +1,18 @@
+
+
+## Overview
+
+                    │       Analyzed Image         
+────────────────────┼──────────────────────────────
+  Target            │  mywebapp:SECURE             
+    digest          │  f55a16237be6                
+    platform        │ linux/arm64                  
+    vulnerabilities │    0C     0H     0M     0L   
+    size            │ 8.6 MB                       
+    packages        │ 32                           
+
+
+## Packages and Vulnerabilities
+
+  No vulnerable packages detected
+

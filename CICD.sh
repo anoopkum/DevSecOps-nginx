@@ -12,3 +12,4 @@ docker build -t $APP_NAME:$VERSION .
 docker run -d -p 80:80 --name $APP_NAME:$VERSION webapp
 
 
+/usr/local/bin
